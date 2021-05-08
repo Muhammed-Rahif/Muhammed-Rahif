@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Muhammed Rahif
 
-## I am Full Stack Developer
+## I am a Full Stack Developer
 
 ![Profile views](https://gpvc.arturio.dev/muhammed-rahif)
 

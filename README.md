@@ -4,6 +4,8 @@
 
 ![Profile views](https://gpvc.arturio.dev/muhammed-rahif)
 
+[My Repositories](https://github.com/Muhammed-Rahif?tab=repositories)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammed-rahif&show_icons=true)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=muhammed-rahif)

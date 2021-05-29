@@ -1,4 +1,4 @@
-# Hi there 👋, my name is Muhammed Rahif
+# Hi there 👋, My name is Muhammed Rahif
 
 ## I am a Full Stack Developer
 

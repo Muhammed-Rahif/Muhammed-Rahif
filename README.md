@@ -52,8 +52,8 @@
 ```
 
 <div align="center">
-    <a href="https://muhammed-rahif.github.io/Netflix-Clone-React/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammed-rahif&repo=Netflix-Clone-React&theme=radical" />
+    <a href="https://muhammed-rahif.github.io/Netflix-Clone/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammed-rahif&repo=Netflix-Clone&theme=radical" />
     </a>
     <a href="https://secure-memo.herokuapp.com/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammed-rahif&repo=Secure-Memo&theme=radical" />

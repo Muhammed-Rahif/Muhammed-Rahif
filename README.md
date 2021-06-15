@@ -129,7 +129,7 @@
         const socialAccounts = {
             Personal_website : "https://muhammed-rahif.github.io/",
             Facebook : "https://www.facebook.com/muhammed.rahif.583/",
-            Instagram : "https://www.instagram.com/_.raifu.op_/",
+            Instagram : "https://www.instagram.com/Muhammed_Rahif_/",
             Github : "https://www.github.com/Muhammed-Rahif/",
             Gmail : "rahifpalliyalil@gmail.com",
         };

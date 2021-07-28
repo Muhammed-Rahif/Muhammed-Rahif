@@ -74,8 +74,8 @@
     <a href="https://crossroads-chat.herokuapp.com/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammed-rahif&repo=Crossroads-Subscribers-Hub&theme=radical" />
     </a>
-    <a href="https://drive.google.com/file/d/1GMRphQ6epdOf_SHqP1bCheDonXSoTiRq/view?usp=sharing">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammed-rahif&repo=Lorem-Picsum&theme=radical" />
+    <a href="https://drive.google.com/file/d/1PAp08CJ-OgNCRJXsAaoqvJ0bZC0IFPLQ/view?usp=sharing">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammed-rahif&repo=Notes&theme=radical" />
     </a>
 </div>
 

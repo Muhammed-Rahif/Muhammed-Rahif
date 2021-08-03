@@ -1,24 +1,23 @@
 <h3 width="200">
 
 ```js
-    function whoAmI() {
+function whoAmI() {
+  const details = {
+    Full_name: "Muhammed Rahif",
+    Age: 17,
+    Personal_website: "https://muhammed-rahif.github.io",
+    Email: "rahifpalliyalil@gmail.com",
+    Location: "Malappuram, Kerala, India",
+    Working: false,
+    Available_for_hire: true,
+    Status: "Focusing on MERN stack",
+    Currently: "Student",
+    Joined_github: 2020,
+    Favorite_language: "JavaScript",
+  };
 
-        const details = {
-            Full_name: "Muhammed Rahif",
-            Age: 17,
-            Personal_website: "https://muhammed-rahif.github.io",
-            Email : "rahifpalliyalil@gmail.com",
-            Location: "Malappuram, Kerala, India",
-            Working: false,
-            Available_for_hire: true,
-            Status: "Focusing on MERN stack",
-            Currently: "Student",
-            Joined_github: 2020,
-            Favorite_language : "JavaScript",
-        };
-
-        return details;
-    }
+  return details;
+}
 ```
 
 <hr />
@@ -38,7 +37,7 @@
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="assets/svg/React-Native.svg" />
 </div>
 
 ```js
@@ -94,6 +93,7 @@
         return (
 
 ```
+
 <div align="center">
     <a href="https://github.com/Muhammed-Rahif">
         <img src="https://github-readme-stats.vercel.app/api?username=muhammed-rahif&show_icons=true&theme=radical" />
@@ -105,6 +105,7 @@
     };
 
 ```
+
 <hr />
 
 ```js
@@ -130,20 +131,17 @@
 <hr />
 
 ```js
+function getInTouch() {
+  const socialAccounts = {
+    Personal_website: "https://muhammed-rahif.github.io/",
+    Facebook: "https://www.facebook.com/muhammed.rahif.583/",
+    Instagram: "https://www.instagram.com/Muhammed_Rahif_/",
+    Github: "https://www.github.com/Muhammed-Rahif/",
+    Gmail: "rahifpalliyalil@gmail.com",
+  };
 
-    function getInTouch() {
-
-        const socialAccounts = {
-            Personal_website : "https://muhammed-rahif.github.io/",
-            Facebook : "https://www.facebook.com/muhammed.rahif.583/",
-            Instagram : "https://www.instagram.com/Muhammed_Rahif_/",
-            Github : "https://www.github.com/Muhammed-Rahif/",
-            Gmail : "rahifpalliyalil@gmail.com",
-        };
-
-        return socialAccounts;
-    };
-
+  return socialAccounts;
+}
 ```
 
 </h3>

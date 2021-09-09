@@ -13,7 +13,7 @@ function whoAmI() {
       Status: "Focusing on MERN stack",
       Currently: "Student",
       Joined_github: 2020,
-      Favorite_language: "JavaScript",
+      Favorite_language: ["JavaScript", "TypeScript"]
   };
 
   return details;

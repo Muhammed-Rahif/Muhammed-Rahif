@@ -2,18 +2,18 @@
 
 ```js
 function whoAmI() {
-    const details = {
-      Full_name: "Muhammed Rahif",
-      Age: 17,
-      Personal_website: "https://muhammed-rahif.github.io",
-      Email: "rahifpalliyalil@gmail.com",
-      Location: "Malappuram, Kerala, India",
-      Working: false,
-      Available_for_hire: true,
-      Status: "Focusing on MERN stack",
-      Currently: "Student",
-      Joined_github: 2020,
-      Favorite_language: ["JavaScript", "TypeScript"]
+  const details = {
+    Full_name: "Muhammed Rahif",
+    Age: 17,
+    Personal_website: "https://muhammed-rahif.github.io",
+    Email: "rahifpalliyalil@gmail.com",
+    Location: "Malappuram, Kerala, India",
+    Working: false,
+    Available_for_hire: true,
+    Status: "Focusing on MERN stack",
+    Currently: "Student",
+    Joined_github: 2020,
+    Favorite_language: ["JavaScript", "TypeScript"],
   };
 
   return details;
@@ -134,16 +134,41 @@ function whoAmI() {
 
 ```js
 function getInTouch() {
-  const socialAccounts = {
-    Personal_website : "https://muhammed-rahif.github.io/",
-    Facebook : "https://www.facebook.com/muhammed.rahif.583/",
-    Instagram : "https://www.instagram.com/Muhammed_Rahif_/",
-    Github : "https://www.github.com/Muhammed-Rahif/",
-    Gmail : "rahifpalliyalil@gmail.com",
-    Stackblitz : "https://stackblitz.com/@Muhammed-Rahif"
-  };
+  console.log("Tip : Click the badge to get in touch with me in that media...!");
 
-  return socialAccounts;
+  return (
+
+```
+
+<div align="center">
+    <a href="mailto:rahifpalliyalil@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/muhammed-rahif">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://www.instagram.com/Muhammed_Rahif_">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+    <a href="https://www.github.com/Muhammed-Rahif">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://stackoverflow.com/users/14781260/muhammed-rahif">
+        <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+    </a>
+    <a href="https://www.facebook.com/muhammed.rahif.583">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    </a>
+    <a href="https://www.freecodecamp.org/muhammed-rahif">
+        <img src="https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" />
+    </a>
+    <a href="https://t.me/Muhammed_Rahif">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    </a>
+</div>
+
+```
+  );
 }
 ```
 

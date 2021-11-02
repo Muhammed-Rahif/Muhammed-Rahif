@@ -1,0 +1,29 @@
+# This is workflow will update repo 'Muhammed-Rahif.github.io/README.md'
+
+name: Update profile READMEs
+on:
+  push:
+    paths:
+      - 'README.md'
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  update-repo:
+    name: Update 'Muhammed-Rahif.github.io/README.md'
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      - name: Trigger workflow file in 'Muhammed-Rahif.github.io'
+        uses: convictional/trigger-workflow-and-wait@v1.3.0
+        with:
+          owner: Muhammed-Rahif
+          repo: Muhammed-Rahif.github.io
+          github_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          workflow_file_name: auto-update-readme.yml
+          ref: master
+

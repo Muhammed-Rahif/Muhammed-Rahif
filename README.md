@@ -1,5 +1,3 @@
-![Black Green Illustration Birthday Email Header](https://user-images.githubusercontent.com/73386156/140616028-ef81ba66-453e-4341-93a6-7240afe99b65.png)
-
 
 <h3 width="200">
 

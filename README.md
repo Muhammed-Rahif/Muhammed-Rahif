@@ -5,7 +5,6 @@
 function whoAmI() {
   const details = {
     Full_name: "Muhammed Rahif",
-    Age: 17,
     Personal_website: "https://rahif.me",
     Email: "rahifpalliyalil@gmail.com",
     Location: "Malappuram, Kerala, India",

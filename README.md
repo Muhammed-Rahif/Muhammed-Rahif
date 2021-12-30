@@ -80,23 +80,23 @@ function whoAmI() {
 ```
 
 <div align="center">
-    <a href="https://muhammed-rahif.github.io/Netflix-Clone/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammed-rahif&repo=Netflix-Clone&theme=radical" />
+    <a href="https://muhammed-rahif.github.io/Netflix-Clone">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammed-rahif&repo=Netflix-Clone&theme=radical" />
     </a>
-    <a href="https://secure-memo.herokuapp.com/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammed-rahif&repo=Secure-Memo&theme=radical" />
+    <a href="https://rahif.me/Notepad">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammed-rahif&repo=Notepad&theme=radical" />
     </a>
-    <a href="https://thrifty-wheels.herokuapp.com/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammed-rahif&repo=Thrifty-Wheels&theme=radical" />
+    <a href="https://thrifty-wheels.herokuapp.com">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammed-rahif&repo=Thrifty-Wheels&theme=radical" />
     </a>
-    <a href="https://Muhammed-Rahif.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammed-rahif&repo=Muhammed-Rahif.github.io&theme=radical" />
+    <a href="https://secure-memo.herokuapp.com">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammed-rahif&repo=Secure-Memo&theme=radical" />
     </a>
-    <a href="https://crossroads-chat.herokuapp.com/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammed-rahif&repo=Crossroads-Subscribers-Hub&theme=radical" />
+    <a href="https://crossroads-chat.herokuapp.com">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammed-rahif&repo=Crossroads-Subscribers-Hub&theme=radical" />
     </a>
-    <a href="https://drive.google.com/file/d/1PAp08CJ-OgNCRJXsAaoqvJ0bZC0IFPLQ/view?usp=sharing">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammed-rahif&repo=Notes&theme=radical" />
+    <a href="https://piptes.herokuapp.com">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammed-rahif&repo=Piptes&theme=radical" />
     </a>
 </div>
 

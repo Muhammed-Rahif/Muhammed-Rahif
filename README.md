@@ -1,4 +1,4 @@
-
+<!-- markdownlint-disable-next-line -->
 <h3 width="200">
 
 ```js
@@ -12,7 +12,7 @@ function whoAmI() {
     Available_for_hire: true,
     Status: "Focusing on MERN stack",
     Currently: "Student",
-    Joined_github: 2020,
+    Join_date: 2020,
     Favorite_language: ["JavaScript", "TypeScript"],
   };
 
@@ -100,7 +100,7 @@ function whoAmI() {
     </a>
 </div>
 
-```
+```js
         );
 
     };
@@ -111,7 +111,7 @@ function whoAmI() {
 
 ```js
 
-    function myGithubStats() {
+    function myGitHubStats() {
         return (
 
 ```
@@ -122,7 +122,7 @@ function whoAmI() {
     </a>
 </div>
 
-```
+```js
         );
     };
 
@@ -143,7 +143,7 @@ function whoAmI() {
     </a>
 </div>
 
-```
+```js
         );
     };
 
@@ -193,7 +193,7 @@ function getInTouch() {
     </a>
 </div>
 
-```
+```js
   );
 }
 ```

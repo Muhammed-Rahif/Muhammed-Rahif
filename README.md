@@ -83,7 +83,7 @@ function whoAmI() {
     <a href="https://muhammed-rahif.github.io/Netflix-Clone">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammed-rahif&repo=Netflix-Clone&theme=radical" />
     </a>
-    <a href="https://rahif.me/Notepad">
+    <a href="https://notepad.rahif.me">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammed-rahif&repo=Notepad&theme=radical" />
     </a>
     <a href="https://thrifty-wheels.herokuapp.com">

@@ -67,7 +67,7 @@ function whoAmI() {
     };
 
 ```
-
+<!-- 
 <hr />
 
 ```js
@@ -105,7 +105,7 @@ function whoAmI() {
 
     };
 
-```
+``` -->
 
 <hr />
 

@@ -57,6 +57,9 @@ function whoAmI() {
   <a href="https://sass-lang.com/">
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
   </a>
+  <a href="https://www.electronjs.org/">
+    <img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9"/>
+  </a>
   <a href="https://reactnative.dev/">
     <img src="assets/svg/React-Native.svg" />
   </a>

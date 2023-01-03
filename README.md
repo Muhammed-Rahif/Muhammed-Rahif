@@ -5,7 +5,7 @@
 function whoAmI() {
   const details = {
     Full_name: "Muhammed Rahif",
-    Personal_website: "https://rahif.me",
+    Personal_website: "https://rahif.tech",
     Email: "rahifpalliyalil@gmail.com",
     Location: "Malappuram, Kerala, India",
     Working: false,
